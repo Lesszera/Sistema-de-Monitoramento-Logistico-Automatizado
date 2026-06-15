@@ -39,9 +39,11 @@ Tempo médio:
 
 ## Solução
 
-### Fluxo da Automação
+### Fluxograma da Automação
 
 Transportadora → Aba Transportadora → Apps Script → Aba Controle → Dashboard
+
+![Fluxograma](docs/fluxo-processo.png)
 
 ### Funcionalidades
 
