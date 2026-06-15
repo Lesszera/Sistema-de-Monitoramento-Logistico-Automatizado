@@ -90,6 +90,12 @@ O dashboard permite visualizar rapidamente:
 
 ---
 
+## 🎬 Demonstração do Projeto
+
+👉 [Clique aqui para assistir a demo no YouTube](https://www.youtube.com/watch?v=SEU_VIDEO)
+
+---
+
 ## Tecnologias Utilizadas
 
 * Google Sheets
